@@ -37,22 +37,22 @@ To narrow down the possible investment opportunities before running a time serie
 > Within the top 20% of urbanized areas, states like California and Texas have the most zipcodes. States with the fewest zipcodes represented in the dataset are the more rural areas, like Vermont, South Dakota, and Alaska
 
 
-![SortByAppreciation](/images/zipcodes-appreciation "Sorted by Appreciation")
+![SortByAppreciation](/images/zipcodes-appreciation.png "Sorted by Appreciation")
 
 > Top 5 and Bottom 5 zipcodes of filtered data, sorted by appreciation over the last 2 years
 
 
-![SortByCVRatio](/images/zipcodes-cvratio "Sorted by CV Ratio")
+![SortByCVRatio](/images/zipcodes-cvratio.png "Sorted by CV Ratio")
 
 > Top 5 and Bottom 5 zipcodes of filtered data, sorted by the CV ratio (the CV Ratio is the standard deviation divided by the mean)
 
 
-![HighestPredictions](/images/highestpredictions "Highest Predictions")
+![HighestPredictions](/images/highestpredictions.png "Highest Predictions")
 
 > Blue highlights the zipcodes with the highest forecasted appreciation, based on prediction values
 
 
-![SmallestCIDelta](/images/highestpredictions "Smallest Confidence Interval Delta")
+![SmallestCIDelta](/images/highestpredictions.png "Smallest Confidence Interval Delta")
 
 > Purple highlights the zipcodes with the highest forecasted appreciation, based on smallest non-negative 95% confidence interval spectrum
 
@@ -62,7 +62,7 @@ To narrow down the possible investment opportunities before running a time serie
 
 ## Conclusion
 
-![Recommendations](/images/highestpredictions "Recommended Investments")
+![Recommendations](/images/highestpredictions.png "Recommended Investments")
 
 
 Given zipcode 29605 (Greenville, SC) has a high forecast price appreciation, albeit a large 95% confidence interval, it is worth investing in this zipcode, as the worst projected return is 27.2%.
