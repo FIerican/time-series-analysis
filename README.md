@@ -52,7 +52,7 @@ To narrow down the possible investment opportunities before running a time serie
 > Blue highlights the zipcodes with the highest forecasted appreciation, based on prediction values
 
 
-![SmallestCIDelta](/images/highestpredictions.png "Smallest Confidence Interval Delta")
+![SmallestCIDelta](/images/smallestCIdelta.png "Smallest Confidence Interval Delta")
 
 > Purple highlights the zipcodes with the highest forecasted appreciation, based on smallest non-negative 95% confidence interval spectrum
 
