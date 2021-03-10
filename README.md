@@ -62,7 +62,7 @@ To narrow down the possible investment opportunities before running a time serie
 
 ## Conclusion
 
-![Recommendations](/images/highestpredictions.png "Recommended Investments")
+![Recommendations](/images/recommendations.png "Recommended Investments")
 
 
 Given zipcode 29605 (Greenville, SC) has a high forecast price appreciation, albeit a large 95% confidence interval, it is worth investing in this zipcode, as the worst projected return is 27.2%.
